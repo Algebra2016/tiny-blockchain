@@ -45,8 +45,6 @@ python run.py -p 5001 &
  
 
 python run.py -p 5002 &
- 
-------
 
 ### **Step2：模拟交易**
 执行：python simulation_test.py
@@ -275,6 +273,4 @@ http://127.0.0.1:5000/transactions/new
         }
     ]
 }
-
-------
-
+```
