@@ -47,7 +47,6 @@ python run.py -p 5002 &
 ### **Step2：模拟交易**
 ```
 python simulation_test.py
-
 ```
 ### **Step3：迷你区块链的json api接口调用**
 区块链客户端实现了json api，可以直接通过api调用来获取各个节点之间的信息
